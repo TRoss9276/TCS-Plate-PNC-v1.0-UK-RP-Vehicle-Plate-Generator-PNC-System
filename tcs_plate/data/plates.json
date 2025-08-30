@@ -1,0 +1,67 @@
+{
+    "plates": {
+        "RM62WUS": {
+            "flags": [
+                "DD,FTS,Stolen"
+            ],
+            "plate": "RM62WUS",
+            "createdAt": "2025-08-29 18:52:37 UTC"
+        },
+        "NP85HJF": {
+            "flags": [
+                "Stolen"
+            ],
+            "plate": "NP85HJF",
+            "createdAt": "2025-08-29 18:59:02 UTC"
+        },
+        "RM62 WUS": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "RM62 WUS",
+            "createdAt": "2025-08-29 18:48:06 UTC"
+        },
+        "OX47 JYU": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "OX47 JYU",
+            "createdAt": "2025-08-30 11:21:24 UTC"
+        },
+        "EA44 SPD": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "EA44 SPD",
+            "createdAt": "2025-08-30 15:45:48 UTC"
+        },
+        "SN60 PUK": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "SN60 PUK",
+            "createdAt": "2025-08-30 15:46:40 UTC"
+        },
+        "RM90 TCV": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "RM90 TCV",
+            "createdAt": "2025-08-29 18:45:37 UTC"
+        },
+        "NP85 HJF": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "NP85 HJF",
+            "createdAt": "2025-08-29 18:57:57 UTC"
+        },
+        "HY84 PHR": {
+            "owner": "TRoss9276",
+            "model": "Unknown",
+            "flags": [],
+            "plate": "HY84 PHR",
+            "createdAt": "2025-08-29 18:43:53 UTC"
+        }
+    }
+}
